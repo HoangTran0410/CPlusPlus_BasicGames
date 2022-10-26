@@ -1,5 +1,7 @@
 # C++ Basic Games
 
+Donate? Muốn hỗ trợ mình 1 ly cafe <3 [Donate here](https://github.com/HoangTran0410/HoangTran0410/blob/main/DONATE.md)
+
 [GG Drive link](https://drive.google.com/drive/folders/1Q6MPfganhuEPz5olNs0AKoek6zJXb3bN?usp=sharing)
 
  1. [Fly and Fight](/FlyAndFight) : Control a spaceship, kill enemies, collect energy all items to win.
